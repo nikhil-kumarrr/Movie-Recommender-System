@@ -1,6 +1,6 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
-## 📌 Introduction
+## Introduction
 
 Movie recommendation systems are one of the most widely used
 applications of Machine Learning today. From Netflix to Amazon Prime,
@@ -17,7 +17,7 @@ that can suggest the most relevant movies based on a user's input.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
 -   Clean data preprocessing (genres, cast, crew, keywords)
 -   Tag creation by combining key features
@@ -27,7 +27,7 @@ that can suggest the most relevant movies based on a user's input.
 
 ------------------------------------------------------------------------
 
-## 📊 Dataset
+## Dataset
 
 Dataset used: **TMDB 5000 Movies Dataset**\
 Available on
@@ -35,7 +35,7 @@ Kaggle : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ------------------------------------------------------------------------
 
-## 🏁 Conclusion
+## Conclusion
 
 This project highlights how machine learning can transform raw data into
 meaningful insights for personalized recommendations.\
